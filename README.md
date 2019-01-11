@@ -1,7 +1,7 @@
 - Various stuff from Christian Ofenberg, including source code backups of legacy hobby projects
   - Master of Science (M. SC.)
   - Senior software developer at [Promotion Software GmbH](https://promotion-software.de/website/) / [Sixteen Tons Entertainment](http://www.sixteen-tons.de/)
-  - [Résumé](Resume/README.md)
+  - [Résumé](Resume/Ofenberg_Resume.pdf)
   - [Linkedin](https://www.linkedin.com/in/christian-ofenberg-41253829/) profile
   - [Xing](https://www.xing.com/profile/Christian_Ofenberg/cv) profile
   - Always looking for new contacts with fellow software engineers and new colleagues at work, see [open positions of my employer](http://www.sixteen-tons.de/JOBS)
