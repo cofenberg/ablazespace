@@ -101,12 +101,12 @@ Some projects have an own sub page you can enter by clicking on the project name
   - A game I worked on now and then during the past last years. I canceled this project due to lack of time. Platform: Windows - OpenGL.
   - Download: ["blibs.zip"](2000_2005/Blibs/blibs.zip) (includes source codes), old webside backup is available for download as well under ["blibs-page.zip"](2000_2005/Blibs/blibs-page.zip)
   - [<img src="2000_2005/Blibs/new_shot2_s.jpg" alt="Blibs">](2000_2005/Blibs/new_shot2.jpg) [<img src="2000_2005/Blibs/new_shot8_s.jpg" alt="Blibs">](2000_2005/Blibs/new_shot8.jpg) [<img src="2000_2005/Blibs/new_shot9_s.jpg" alt="Blibs">](2000_2005/Blibs/new_shot9.jpg) [<img src="2000_2005/Blibs/new_shot10_s.jpg" alt="Blibs">](2000_2005/Blibs/new_shot10.jpg)
-- [<img src="2000_2005/STG/screenshot_1s.jpg" alt="Softgames.de - The Game"> Softgames.de - The Game (click for old HTML sub-page)](2000_2005/STG/stg.html)
+- [<img src="2000_2005/STG/screenshot_1s.jpg" alt="Softgames.de - The Game"> Softgames.de - The Game (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/2000_2005/STG/stg.html)
   - "Softgames.de - The Game" is, as the name indicates, a promotion game for [Softgames.de](https://www.softgames.de/). Platform: Windows - OpenGL.
   - Download: ["stg.zip"](2000_2005/STG/stg.zip) (source codes available via sub-page)
 - [<img src="2000_2005/TheSecondEvolution/se_s.jpg" alt="The Second Evolution"> The Second Evolution](2000_2005/TheSecondEvolution/se.jpg)
   - [The Second Evolution](http://www.second-evolution.de/) was a commercial game project of [Happy-Grafix](http://www.happy-grafix.de/) / [Bytestorm](http://www.bytestorm.org/). I worked on this game as a programmer for one year. The "Vulpine Vision"-engine was used which was later on known as "[Trinigy Vision](http://www.trinigy.de/)"-engine.
-- [<img src="2000_2005/Subscape/screenshot_1s.jpg" alt="Subscape"> Subscape (click for old HTML sub-page)](2000_2005/Subscape/subscape.html)
+- [<img src="2000_2005/Subscape/screenshot_1s.jpg" alt="Subscape"> Subscape (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/2000_2005/Subscape/subscape.html)
   - I canceled this project due to lack of time. Platform: Windows - OpenGL.
   - Download: ["subscape.zip"](2000_2005/Subscape/subscape.zip) (includes source codes)
 - [NeHe GameTutorial 7](2000_2005/NeHeGameTutorial7/NeHeGameTutorial7.zip): A small tutorial about free 3D movement I wrote together with Trent Polack (nickname "ShiningKnight") for [NeHe](http://nehe.gamedev.net/).
@@ -114,10 +114,10 @@ Some projects have an own sub page you can enter by clicking on the project name
 
 2001
 ======
-- [<img src="2000_2005/AblazeBall/screenshot_1s.jpg" alt="AblazeBall"> AblazeBall (click for old HTML sub-page)](2000_2005/AblazeBall/ablazeball.html)
+- [<img src="2000_2005/AblazeBall/screenshot_1s.jpg" alt="AblazeBall"> AblazeBall (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/2000_2005/AblazeBall/ablazeball.html)
   - AblazeBall is a game with random generated levels. The goal if the game is to bring up two big fire balls into an ablaze space in the middle of each level. Platform: Windows - OpenGL.
   - Download: ["ablazeball.zip"](2000_2005/AblazeBall/ablazeball.zip) (source codes available via sub-page)
-- [<img src="2000_2005/Convey/screenshot_1s.jpg" alt="Convey"> Convey (click for old HTML sub-page)](2000_2005/Convey/convey.html)
+- [<img src="2000_2005/Convey/screenshot_1s.jpg" alt="Convey"> Convey (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/2000_2005/Convey/convey.html)
   - Convey is clone of a game I played as a kid, but packed with a lot of new elements. Especially fans of logical games will be zesty. Platform: Windows - OpenGL.
   - Download: ["conveydemo2.zip"](2000_2005/Convey/conveydemo2.zip) (source codes available via sub-page)
 - <img src="2000_2005/BlazeChicken/blazechicken.gif" alt="Blaze Chicken"> Blaze Chicken: Should be a clone of a game I played on the Amiga 500... never finished.
@@ -127,16 +127,16 @@ Some projects have an own sub page you can enter by clicking on the project name
 
 2000
 ======
-- [<img src="2000_2005/Invasion2/screenshot_1s.jpg" alt="Invasion 2"> Invasion 2 (click for old HTML sub-page)](2000_2005/Invasion2/invasion2.html)
+- [<img src="2000_2005/Invasion2/screenshot_1s.jpg" alt="Invasion 2"> Invasion 2 (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/2000_2005/Invasion2/invasion2.html)
   - Asteroids bounce against each other... and the players, too. Sometimes there are gravitation influences. With it you can make unusual manoeuvres. Platform: Windows - OpenGL
   - Download: ["invasion2.zip"](2000_2005/Invasion2/invasion2.zip) (source codes available via sub-page)
-- [<img src="2000_2005/Invasion/screenshot_1s.jpg" alt="Invasion"> Invasion (click for old HTML sub-page)](2000_2005/Invasion/invasion.html)
+- [<img src="2000_2005/Invasion/screenshot_1s.jpg" alt="Invasion"> Invasion (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/2000_2005/Invasion/invasion.html)
   - You control a spaceship you could fire and you have to preserve your planet... an invasions of aliens coming through a wormhole is running. Platform: Windows - OpenGL. 
   - Download: ["invasion.zip"](2000_2005/Invasion/invasion.zip) (source codes available via sub-page)
-- [<img src="2000_2005/Alzey/screenshot_1s.jpg" alt="Alzey"> Alzey (click for old HTML sub-page)](2000_2005/Alzey/alzey.html)
+- [<img src="2000_2005/Alzey/screenshot_1s.jpg" alt="Alzey"> Alzey (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/2000_2005/Alzey/alzey.html)
   - In each of the 21 levels you have to accomplish certain missions (collect all diamonds, kill all enemies...). Platform: Windows - OpenGL.
   - Download: ["alzey.zip"](2000_2005/Alzey/alzey.zip) (source codes available via sub-page)
-- [<img src="2000_2005/ASO_Creator/screenshot_1s.jpg" alt="ASO-Creator"> ASO-Creator (click for old HTML sub-page)](2000_2005/ASO_Creator/aso-creator.html)
+- [<img src="2000_2005/ASO_Creator/screenshot_1s.jpg" alt="ASO-Creator"> ASO-Creator (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/2000_2005/ASO_Creator/aso-creator.html)
   - With this program you are able to create aso-model animations. It loads VRML files and uses them as key-frames. I created the animations of some games (Invasion, Invasion 2 and Convey) with it. Platform: Windows - OpenGL.
   - Download: ["aso-creator.zip"](2000_2005/ASO_Creator/aso-creator.zip) (source codes available via sub-page)
 - Ratespiel
@@ -158,10 +158,10 @@ Below you will find my old MD-DOS projects. I recommend to use [DosBox](https://
 
 1998
 ======
-- [<img src="1995_1999/DOS/Crisis/screenshot_1s.jpg" alt="Crisis"> Crisis (click for old HTML sub-page)](1995_1999/DOS/Crisis/crisis.html)
+- [<img src="1995_1999/DOS/Crisis/screenshot_1s.jpg" alt="Crisis"> Crisis (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/1995_1999/DOS/Crisis/crisis.html)
   - At the beginning of the game you will see a lot of stones on the table. Your task is now to remove as many stones as you can. Platform: MS-DOS.
   - Download: ["crisis.zip"](1995_1999/DOS/Crisis/crisis.zip) (source codes available via sub-page)
-- [<img src="1995_1999/DOS/Algorithmus/screenshot_1s.jpg" alt="Algorithmus"> Algorithmus (click for old HTML sub-page)](1995_1999/DOS/Algorithmus/algorithmus.html)
+- [<img src="1995_1999/DOS/Algorithmus/screenshot_1s.jpg" alt="Algorithmus"> Algorithmus (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/1995_1999/DOS/Algorithmus/algorithmus.html)
   - When the game begins, a field flashes for a few seconds. You have to click on this field. After that two fields will flash. Click on both fields in the order they flashed. A third field flashes and so on. You have to remember the order. This goes on until you clicked on a wrong field (inadvertently or deliberately). Platform: MS-DOS.
   - Download: ["algorithmus.zip"](1995_1999/DOS/Algorithmus/algorithmus.zip) (source codes available via sub-page)
 - [<img src="1995_1999/DOS/Equal/equal_s.gif" alt="Equal">](1995_1999/DOS/Equal/equal.gif) Equal
@@ -185,7 +185,7 @@ Below you will find my old MD-DOS projects. I recommend to use [DosBox](https://
 - [<img src="1995_1999/DOS/Fire/fire_s.gif" alt="Fire">](1995_1999/DOS/Fire/fire.gif) Fire
   - A game were you have to shoot on down falling parachutes. Platform: MS-DOS
   - Download: ["fire.zip"](1995_1999/DOS/Fire/fire.zip) (includes source codes)
-- [<img src="1995_1999/DOS/HighLow/screenshot_1s.jpg" alt="High-Low"> High-Low (click for old HTML sub-page)](1995_1999/DOS/HighLow/highlow.html)
+- [<img src="1995_1999/DOS/HighLow/screenshot_1s.jpg" alt="High-Low"> High-Low (click for old HTML sub-page)](http://htmlpreview.github.io/?https://github.com/cofenberg/ablazespace/blob/master/Projects/1995_1999/DOS/HighLow/highlow.html)
   - A simple "find my number" game. Platform: MS-DOS
   - Download: ["highlow.zip"](1995_1999/DOS/HighLow/highlow.zip) (no source codes)
 
