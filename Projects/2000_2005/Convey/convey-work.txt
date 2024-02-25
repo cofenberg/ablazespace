@@ -1,0 +1,58 @@
+Here some notes what I've done since the first demo: (I didn't listed each tiny detail...)
+
+
+- Created beamers. Now you could pass large distances in a few seconds.
+- There's now another enemy: The X3-scout which walks through the levels
+- Included an cheats menu in the configuration dialog which could be activated, if the program 
+  was startet with the right parameter
+- Added an credits screen in the main menu
+- Added level decoration. You could now place md2-models into your level to improve the optic quality
+- Added multitexturing, now the textures could be blended smoothly to cover the quadrate level field structure
+- Included an enemy called 'Mobmob'. This enemy walks silly around, but if the player comes to near he attacks him.
+  The player could kill him in different ways: Kill him with a box, shot on him...
+- Added an water environment texture which reflects the sky-box
+- The number of objects the player receive if he collects something could now be changed
+- Each field could now have different occurrences. For instance: if the player go on a field then a camera or 
+  text script could start to give him some information
+- Added a text script system which allows to create messages with a picutre/animation to exlpain the 
+  player what's going on or to tell an story
+- A small message at the top of the screen inform the player about different stuff.
+  For instance if he collects something or an mission is complete...
+- Included animated player and weapon skin
+- You could now open the options in the game, too. (e.g. if you want to see the used keys)
+- In the key setup menu you could now see the selected key for each action
+- Camera improvement: The camera is now never in a wall or a hill, it rotate now if the camera would be
+  in such an obstacle. That was no problem... only some 'simple' mathematic functions...
+- Each surface has now an own friction. On sand for example the player is slower and on
+  ice his faster...
+- Created a Convey loader program which is something like a portal to the game. From there you could
+  choose some stuff like the editor or the help. Further it check's the installed DirectX
+  version and gives out a message if there is an wrong version. And there's an parameter line
+  in which you could type in different program parameters. Short: A nice tool!!
+- On an alcove (checkpoint) the game makes an autosave. If you done something wrong then you could
+  reload the autosave.
+- A particle shadow of the players model signs now the active alcove were the player could restart
+  the game.
+- Surfaces could now change by time, for example it's possible to creat
+  color painters which change their color so that the player have to wait 
+  till there's the right color.
+- Included an publisher and AblazeSpace logo animation
+- The box docking is now smoother and the a box is only after .5 seconds 
+  on a anchor docked.
+- Included a menu in the game were you could select different options
+  Now you could easy restart a level or campaign.
+- It appears now a question if the player want to delete a player ID
+- The font in the main menu is now animated
+- I improved the music playback functions, now this file-types are possible as background music: 
+  >> wav, mpa, mp2, mp3, au, aif, aiff, mid, midi, rmi <<
+  Further I included a music volume control in the configuration.
+- Included transparent surfaces, now it's possible to creat transparent walls and floors.
+- Included particles for the player shot, weapon smoke, water waves, air bubbles if the player is under water,
+  speed mode and the ghost mode.
+  The last are amazing because they creat a trace of the player. In the configuration dialog
+  you could setup the particle density. (for slower systems)
+- In the editor-missions menu you could now see the number of points which are in the level
+- The collision detection is now better
+- Rebuild the whole structure of the level information... that was very hard work!
+  That should be fix some bugs...
+- Fixed many bugs and improved a lot of thing's
