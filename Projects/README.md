@@ -15,7 +15,7 @@
 ======
 - [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
   - Unannounced game project using Unreal Engine 4
-  - Lead software developer of the [TEAMWORK research project](https://www.teamworkprojekt.de/tcc/) 3D simulator and editor
+  - Lead software developer of the [TEAMWORK research project](https://www.teamworkprojekt.de/) 3D simulator and editor
   - Undisclosed client research projects
 - Pet project [Unrimp](https://github.com/cofenberg/unrimp)
 
