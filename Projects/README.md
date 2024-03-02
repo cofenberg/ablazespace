@@ -48,7 +48,7 @@
 ======
 - [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
     - [Quadriga Simulation Framework (QSF)](https://github.com/16tons/emergency5_sdk)
-    - [EMERGENCY 5](https://store.steampowered.com/app/735280/EMERGENCY_20/), release November 2014
+    - [EMERGENCY 5](https://store.steampowered.com/app/735280/EMERGENCY_20/) (see also [EMERGENCY 5 World Builder Tutorials](https://www.youtube.com/watch?v=w4MGTixQzUQ&list=PLcRyDsry13D5zElQlh1NPy4KaVXfq0tso&ab_channel=SixteenTonsEntertainment)), release November 2014
 - Froze all spare time projects during this over two years long intensive development phase at my job to be able to get the necessary work  done in the available amount of time
 
 2012
