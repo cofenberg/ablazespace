@@ -22,7 +22,7 @@
 2017
 ======
 - [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
-  - [EMERGENCY 20](https://store.steampowered.com/app/735280/EMERGENCY_20/)
+  - [EMERGENCY 20](https://store.steampowered.com/app/735280/EMERGENCY_20/) + [Mac version](https://apps.apple.com/de/app/emergency-20/id1323078187?mt=12)
   - Lead software developer of the [TEAMWORK research project](https://www.teamworkprojekt.de/tcc/) 3D simulator and editor
   - Undisclosed client research projects, one of them involving [HoloLens](https://www.microsoft.com/en-us/hololens) and [Leap Motion](https://www.leapmotion.com/) using [Unity](https://unity3d.com/)
 - Pet project [Unrimp](https://github.com/cofenberg/unrimp)
@@ -30,7 +30,7 @@
 2016
 ======
 - [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
-  - [EMERGENCY 2017](https://store.steampowered.com/app/735280/EMERGENCY_20/)
+  - [EMERGENCY 2017](https://store.steampowered.com/app/735280/EMERGENCY_20/) + [Mac version](https://apps.apple.com/de/app/emergency-2017/id1179452614?mt=12)
   - Lead software developer of the [TEAMWORK research project](https://www.teamworkprojekt.de/tcc/) 3D simulator and editor
   - Undisclosed client research projects
 - Pet project [Unrimp](https://github.com/cofenberg/unrimp)
