@@ -5,4 +5,4 @@
   - [Linkedin](https://www.linkedin.com/in/christian-ofenberg-41253829/) profile
   - [Xing](https://www.xing.com/profile/Christian_Ofenberg/cv) profile
 - [Projects](Projects/README.md) dating from today back to 1995
-- Current pet project: [Unrimp](https://github.com/cofenberg/unrimp)
+- Current pet project: [COUnreal](https://github.com/cofenberg/COUnreal)
