@@ -54,10 +54,10 @@
 
 2012
 ======
-- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/PixelLightFoundation/pixellight)
+- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/cofenberg/pixellight)
   - [<img src="PixelLight/Dungeon_MotionBlur_20120506_1_s.jpg">](PixelLight/Dungeon_MotionBlur_20120506_1.jpg) [<img src="PixelLight/Sci-Fi_MotionBlur_20120506_2_s.jpg">](PixelLight/Sci-Fi_MotionBlur_20120506_2.jpg) [<img src="PixelLight/Sci-Fi_MotionBlur_20120506_3_s.jpg">](PixelLight/Sci-Fi_MotionBlur_20120506_3.jpg)
   - [YouTube-Videos](https://www.youtube.com/user/pixellight3d): <a href="http://www.youtube.com/watch?feature=player_embedded&v=V3gxJE5N-Z8" target="_blank"><img src="http://img.youtube.com/vi/V3gxJE5N-Z8/0.jpg" alt="Motion blur - PixelLight SciFi demo prototype 3" width="240" height="180" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=jounikdH3_4" target="_blank"><img src="http://img.youtube.com/vi/jounikdH3_4/0.jpg" alt="Mediaeval Scene on Android Smartphone" width="240" height="180" border="10" /></a>
-- [Master-Thesis "Scalable Realtime Volume Rendering" (in German)](Academic/MasterThesis/Ofenberg2012.pdf) - Implemented as plugins for the [PixelLight 3D engine](https://github.com/PixelLightFoundation/pixellight)
+- [Master-Thesis "Scalable Realtime Volume Rendering" (in German)](Academic/MasterThesis/Ofenberg2012.pdf) - Implemented as plugins for the [PixelLight 3D engine](https://github.com/cofenberg/pixellight)
   - [<img src="Academic/MasterThesis/Pig_s.jpg">](Academic/MasterThesis/Pig.jpg) [<img src="Academic/MasterThesis/FellowStudent_s.jpg">](Academic/MasterThesis/FellowStudent.jpg) [<img src="Academic/MasterThesis/InVolume_s.jpg">](Academic/MasterThesis/InVolume.jpg) [<img src="Academic/MasterThesis/EngineIntegration_s.jpg">](Academic/MasterThesis/EngineIntegration.jpg) [<img src="Academic/MasterThesis/PolygonsVsVoxels_s.jpg">](Academic/MasterThesis/PolygonsVsVoxels.jpg) [<img src="Academic/MasterThesis/ClipRay_ClipPlane_s.jpg">](Academic/MasterThesis/ClipRay_ClipPlane.jpg)
   - [YouTube-Videos](https://www.youtube.com/user/pixellight3d): <a href="http://www.youtube.com/watch?feature=player_embedded&v=glhgBvVRT6c" target="_blank"><img src="http://img.youtube.com/vi/glhgBvVRT6c/0.jpg" alt="Volume rendering of a pig 1" width="240" height="180" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=ngWkB1fJvlo" target="_blank"><img src="http://img.youtube.com/vi/ngWkB1fJvlo/0.jpg" alt="CT-dataset volume rendering in the dungeon demo" width="240" height="180" border="10" /></a>
 - Contributed to the paper ["Indoor Navigation Using Particle Filter and Sensor Fusion"](http://www.annualofnavigation.pl/en.php?s=26,past%20issues&gr=No%2019/2012%20part%202&nr=215)
@@ -67,33 +67,33 @@
  
 2011
 ======
-- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/PixelLightFoundation/pixellight)
+- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/cofenberg/pixellight)
   - [<img src="PixelLight/PixelLightSciFiDemoPrototype_1_s.jpg">](PixelLight/PixelLightSciFiDemoPrototype_1.jpg) [<img src="PixelLight/DungeonCave_4_s.jpg">](PixelLight/DungeonCave_4.jpg) [<img src="PixelLight/Dungeon_15_s.jpg">](PixelLight/Dungeon_15.jpg) [<img src="PixelLight/VisualizationExperiment_1_s.jpg">](PixelLight/VisualizationExperiment_1.jpg)
   - [YouTube-Videos](https://www.youtube.com/user/pixellight3d): <a href="http://www.youtube.com/watch?feature=player_embedded&v=huy-LQdyADM" target="_blank"><img src="http://img.youtube.com/vi/huy-LQdyADM/0.jpg" alt="PixelLight dungeon demo V1.2 - Cave" width="240" height="180" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ko0eRDRCA8E" target="_blank"><img src="http://img.youtube.com/vi/Ko0eRDRCA8E/0.jpg" alt="PixelLight dungeon demo V1.2 - Impressions" width="240" height="180" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=YZQ7zQH6pro" target="_blank"><img src="http://img.youtube.com/vi/YZQ7zQH6pro/0.jpg" alt="PixelLight dungeon demo making of version 1.1" width="240" height="180" border="10" /></a>
 
 2010
 ======
-- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/PixelLightFoundation/pixellight) - Since 16.9.2002 in development, first public release was on 23.08.2010
+- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/cofenberg/pixellight) - Since 16.9.2002 in development, first public release was on 23.08.2010
 - [Bachelor-Thesis "Fast 2D/3D registration of medical images on the GPU"](Academic/BachelorThesis/Ofenberg2010.pdf) (using OpenCL, in German)
 
 2006-2010
 ======
-- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/PixelLightFoundation/pixellight)
+- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/cofenberg/pixellight)
 - Worked on several [benntec Systemtechnik GmbH](https://www.benntec.de/) 3D projects
 
 2005
 ======
-- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/PixelLightFoundation/pixellight)
+- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/cofenberg/pixellight)
 - <img src="2000_2005/Article/devarticle1.jpg" height="115"> Article ["Die wunderbare Welt der Ebenen"](2000_2005/Article/PlaneMania.pdf), a German article I wrote for [Developia](https://www.developia.de/)
 
 2004
 ======
-- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/PixelLightFoundation/pixellight)
-- [<img src="2000_2005/HDRview/hdrview.jpg" alt="HDRview">](http://wwww.sachform.de/index.php?option=com_content&view=article&id=15&Itemid=26&lang=en) A HDR viewer for Microsoft Windows [Stefan Buschmann](https://www.game-coder.de/) and I developed for [Sachform](http://www.sachform.de/) using our [PixelLight 3D engine](https://github.com/PixelLightFoundation/pixellight)
+- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight"> 3D engine](https://github.com/cofenberg/pixellight)
+- [<img src="2000_2005/HDRview/hdrview.jpg" alt="HDRview">](http://wwww.sachform.de/index.php?option=com_content&view=article&id=15&Itemid=26&lang=en) A HDR viewer for Microsoft Windows [Stefan Buschmann](https://www.game-coder.de/) and I developed for [Sachform](http://www.sachform.de/) using our [PixelLight 3D engine](https://github.com/cofenberg/pixellight)
 
 2003
 ======
-[<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight">](https://github.com/PixelLightFoundation/pixellight) The development of the [PixelLight 3D engine](https://github.com/PixelLightFoundation/pixellight) continued.
+[<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight">](https://github.com/cofenberg/pixellight) The development of the [PixelLight 3D engine](https://github.com/cofenberg/pixellight) continued.
 
 ---
 In 2003, I started to work in a team to develop commercial software. Therefore, after 2002 there are no more freeware games.
@@ -116,7 +116,7 @@ Some projects have an own sub page you can enter by clicking on the project name
   - I canceled this project due to lack of time. Platform: Windows - OpenGL.
   - Download: ["subscape.zip"](2000_2005/Subscape/subscape.zip) (includes source codes)
 - [NeHe GameTutorial 7](2000_2005/NeHeGameTutorial7/NeHeGameTutorial7.zip): A small tutorial about free 3D movement I wrote together with Trent Polack (nickname "ShiningKnight") for [NeHe](http://nehe.gamedev.net/).
-- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight">](https://github.com/PixelLightFoundation/pixellight) On 16 September, 2002 the development of the [PixelLight](https://github.com/PixelLightFoundation/pixellight) 3D engine started.
+- [<img src="PixelLight/PixelLight_Logo.png" height="50" alt="PixelLight">](https://github.com/cofenberg/pixellight) On 16 September, 2002 the development of the [PixelLight](https://github.com/cofenberg/pixellight) 3D engine started.
 
 2001
 ======
