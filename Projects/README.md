@@ -4,7 +4,8 @@
 ======
 - [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
   - Free-to-play [EMERGENCY](https://store.steampowered.com/app/850170/EMERGENCY/) using Unreal Engine 5
-- Unreal Engine 5.4 pet project [COUnreal](https://github.com/cofenberg/COUnreal)
+- Unreal Engine 5.4 pet project for educational purposes [COUnreal](https://github.com/cofenberg/COUnreal) (private repository, invitation on request)
+  - x64 Windows pre-build binary Google Drive link: [COUnreal_Windows_22042024.zip](https://drive.google.com/file/d/1-qKJOrc1-db97Doqq2uADD-__9h1KnNi/view?usp=drive_link)
 
 2019-2022
 ======
