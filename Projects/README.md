@@ -2,7 +2,9 @@
 
 2023-2024
 ======
-- [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
+- Starting July: Software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
+    - Undisclosed projects
+- January - June: Senior software developer at [Promotion Software GmbH](https://promotion-software.de/website/) / [Sixteen Tons Entertainment](http://www.sixteen-tons.de/)
   - Free-to-play [EMERGENCY](https://store.steampowered.com/app/850170/EMERGENCY/) using Unreal Engine 5
 - Unreal Engine 5.4 pet project for educational purposes [COUnreal](https://github.com/cofenberg/COUnreal) (private repository, invitation on request)
   - x64 Windows pre-build binary Google Drive link: [COUnreal_Windows_24062024.zip](https://drive.google.com/file/d/13QuyYYHppetUQluZAR6B4v5t_lzC7u6V/view?usp=sharing)
@@ -10,13 +12,13 @@
 
 2019-2022
 ======
-- [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
+- Senior software developer at [Promotion Software GmbH](https://promotion-software.de/website/) / [Sixteen Tons Entertainment](http://www.sixteen-tons.de/)
   - Unannounced game project using Unreal Engine 4
 - Pet project [Unrimp](https://github.com/cofenberg/unrimp)
 
 2018
 ======
-- [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
+- Senior software developer at [Promotion Software GmbH](https://promotion-software.de/website/) / [Sixteen Tons Entertainment](http://www.sixteen-tons.de/)
   - Unannounced game project using Unreal Engine 4
   - Lead software developer of the [TEAMWORK research project](https://www.teamworkprojekt.de/) 3D simulator and editor
   - Undisclosed client research projects
@@ -24,7 +26,7 @@
 
 2017
 ======
-- [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
+- Senior software developer at [Promotion Software GmbH](https://promotion-software.de/website/) / [Sixteen Tons Entertainment](http://www.sixteen-tons.de/)
   - [EMERGENCY 20](https://store.steampowered.com/app/735280/EMERGENCY_20/) + [Mac version](https://apps.apple.com/de/app/emergency-20/id1323078187?mt=12)
   - Lead software developer of the [TEAMWORK research project](https://www.teamworkprojekt.de/tcc/) 3D simulator and editor
   - Undisclosed client research projects, one of them involving [HoloLens](https://www.microsoft.com/en-us/hololens) and [Leap Motion](https://www.leapmotion.com/) using [Unity](https://unity3d.com/)
@@ -32,7 +34,7 @@
 
 2016
 ======
-- [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
+- Senior software developer at [Promotion Software GmbH](https://promotion-software.de/website/) / [Sixteen Tons Entertainment](http://www.sixteen-tons.de/)
   - [EMERGENCY 2017](https://store.steampowered.com/app/735280/EMERGENCY_20/) + [Mac version](https://apps.apple.com/de/app/emergency-2017/id1179452614?mt=12)
   - Lead software developer of the [TEAMWORK research project](https://www.teamworkprojekt.de/tcc/) 3D simulator and editor
   - Undisclosed client research projects
@@ -40,7 +42,7 @@
 
 2015
 ======
-- [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
+- Senior software developer at [Promotion Software GmbH](https://promotion-software.de/website/) / [Sixteen Tons Entertainment](http://www.sixteen-tons.de/)
   - Upgraded [Quadriga Simulation Framework (QSF)](https://github.com/16tons/emergency5_sdk) and EMERGENCY 5 inside three months from Direct3D 9 to Direct3D 11
   - Ported together with [Christoffer Anselm](https://www.paindevs.com/) [EMERGENCY 5 to Mac](https://itunes.apple.com/us/app/emergency-5/id1008178056?mt=12)
   - [EMERGENCY 2016](https://store.steampowered.com/app/735280/EMERGENCY_20/)
@@ -49,7 +51,7 @@
 
 2012 - 2014
 ======
-- [<img src="2012AndAbove/SixteenTonsEntertainmentLogo.png" alt="Sixteen Tons Entertainment">](http://www.sixteen-tons.de/) Job
+- Senior software developer at [Promotion Software GmbH](https://promotion-software.de/website/) / [Sixteen Tons Entertainment](http://www.sixteen-tons.de/)
     - [Quadriga Simulation Framework (QSF)](https://github.com/16tons/emergency5_sdk)
     - [EMERGENCY 5](https://store.steampowered.com/app/735280/EMERGENCY_20/) (see also [EMERGENCY 5 World Builder Tutorials](https://www.youtube.com/watch?v=w4MGTixQzUQ&list=PLcRyDsry13D5zElQlh1NPy4KaVXfq0tso&ab_channel=SixteenTonsEntertainment)), release November 2014
 - Froze all spare time projects during this over two years long intensive development phase at my job to be able to get the necessary work  done in the available amount of time
