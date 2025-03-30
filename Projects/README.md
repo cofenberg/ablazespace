@@ -3,7 +3,9 @@
 2025
 ======
 - Software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
-    - Undisclosed projects
+    - [Firefighting Simulator: Ignite](https://weltenbauer-se.com/en/referenzen/firefighting-simulator-ignite-2/) - "Realistic firefighting experiences with authentic equipment and vehicles, powered by cutting-edge engine technology."
+		- [https://www.firefighting-simulator.com/](https://www.firefighting-simulator.com/)
+	- [Virtual Factory](https://weltenbauer-se.com/en/referenzen/virtual-factory-2/) - "Simulate an entire factory virtually and control real robot hardware in VR as a digital twin. This is what our tech demo at the Hannover Messe offers."
 - Unreal Engine 5.5 pet project for educational purposes [COUnreal](https://github.com/cofenberg/COUnreal) (private repository, invitation on request)
   - x64 Windows pre-build binary Google Drive link: [COUnreal_Windows_06012025.zip](https://drive.google.com/file/d/114TQf3S2GZZzvrdTvQYqHA71vw6Es3EM/view?usp=sharing)
   <img src="2012AndAbove/COUnreal_05012025_1.jpg" width="640" height="360">
@@ -12,7 +14,9 @@
 2024
 ======
 - Starting July: Software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
-    - Undisclosed projects
+    - [Firefighting Simulator: Ignite](https://weltenbauer-se.com/en/referenzen/firefighting-simulator-ignite-2/) - "Realistic firefighting experiences with authentic equipment and vehicles, powered by cutting-edge engine technology."
+		- [https://www.firefighting-simulator.com/](https://www.firefighting-simulator.com/)
+	- [Project MATHILDA](https://weltenbauer-se.com/en/referenzen/project-mathilda/) - "An immersive VR training programme for rescue workers that simulates realistic scenarios and tests critical decision-making under pressure."
 - Unreal Engine 5.4 pet project for educational purposes [COUnreal](https://github.com/cofenberg/COUnreal) (private repository, invitation on request)
   - x64 Windows pre-build binary Google Drive link: [COUnreal_Windows_24062024.zip](https://drive.google.com/file/d/13QuyYYHppetUQluZAR6B4v5t_lzC7u6V/view?usp=sharing)
   <img src="2012AndAbove/COUnreal.jpg" width="640" height="400">
