@@ -2,7 +2,7 @@
 
 2025
 ======
-- Software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
+- Senior software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
     - [Firefighting Simulator: Ignite](https://weltenbauer-se.com/en/referenzen/firefighting-simulator-ignite-2/) - "Realistic firefighting experiences with authentic equipment and vehicles, powered by cutting-edge engine technology."
 		- [https://www.firefighting-simulator.com/](https://www.firefighting-simulator.com/)
 	- [Virtual Factory](https://weltenbauer-se.com/en/referenzen/virtual-factory-2/) - "Simulate an entire factory virtually and control real robot hardware in VR as a digital twin. This is what our tech demo at the Hannover Messe offers."
@@ -13,7 +13,7 @@
 
 2024
 ======
-- Starting July: Software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
+- Starting July: Senior software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
     - [Firefighting Simulator: Ignite](https://weltenbauer-se.com/en/referenzen/firefighting-simulator-ignite-2/) - "Realistic firefighting experiences with authentic equipment and vehicles, powered by cutting-edge engine technology."
 		- [https://www.firefighting-simulator.com/](https://www.firefighting-simulator.com/)
 	- [Project MATHILDA](https://weltenbauer-se.com/en/referenzen/project-mathilda/) - "An immersive VR training programme for rescue workers that simulates realistic scenarios and tests critical decision-making under pressure."
