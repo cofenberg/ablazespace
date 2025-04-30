@@ -1,6 +1,6 @@
 - Various stuff from Christian Ofenberg, including source code backups of legacy hobby projects
   - Master of Science (M. SC.)
-  - Software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
+  - Senior software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
   - [Résumé](Resume/Ofenberg_Resume.pdf)
   - [Linkedin](https://www.linkedin.com/in/christian-ofenberg-41253829/) profile
   - [Xing](https://www.xing.com/profile/Christian_Ofenberg/cv) profile
