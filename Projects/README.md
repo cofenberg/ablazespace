@@ -5,6 +5,7 @@
 - Senior software developer at [weltenbauer. Software Entwicklung GmbH](https://www.weltenbauer-se.com/de)
     - [Firefighting Simulator: Ignite](https://weltenbauer-se.com/en/referenzen/firefighting-simulator-ignite-2/) - "Realistic firefighting experiences with authentic equipment and vehicles, powered by cutting-edge engine technology."
 		- [https://www.firefighting-simulator.com/](https://www.firefighting-simulator.com/)
+		- Won the [German Developer Award 2025](https://deutscherentwicklerpreis.de/startseite-en/) in the category "Best Technical Achievement"
 	- [Virtual Factory](https://weltenbauer-se.com/en/referenzen/virtual-factory-2/) - "Simulate an entire factory virtually and control real robot hardware in VR as a digital twin. This is what our tech demo at the Hannover Messe offers."
 - Unreal Engine 5.5 pet project for educational purposes [COUnreal](https://github.com/cofenberg/COUnreal) (private repository, invitation on request)
   - x64 Windows pre-build binary Google Drive link: [COUnreal_Windows_06012025.zip](https://drive.google.com/file/d/114TQf3S2GZZzvrdTvQYqHA71vw6Es3EM/view?usp=sharing)
